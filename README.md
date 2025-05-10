@@ -44,3 +44,29 @@ Wireframes typically include several key elements that define the structure and 
 - **Example:** A wireframe for a login page might include placeholders for the username and password fields, along with a login button. This section of the wireframe defines how users will interact with the system, including any necessary validation or error messages.
 
 By incorporating these key elements into a wireframe, designers can create a clear, structured layout that sets the foundation for the visual design and functionality of a product.
+
+## Types of Wireframes
+
+Wireframes can be classified into different types based on their level of detail. The two main types are **Low-Fidelity Wireframes** and **High-Fidelity Wireframes**.
+
+### Low-Fidelity Wireframes
+
+**Low-fidelity wireframes** are basic sketches or simple digital designs that focus on the structure and layout of a product without worrying about design details like colors, typography, or images. They are often created using pen and paper or basic wireframing tools.
+
+- **When to use:** These wireframes are typically used early in the design process to explore and communicate the basic layout and flow. They are quick to produce and easy to modify, making them ideal for brainstorming and initial feedback.
+- **Example:** A basic grid layout showing boxes for navigation, content, and footer, with minimal details or labels.
+
+### High-Fidelity Wireframes
+
+**High-fidelity wireframes** are more detailed and closer to the final product, often including actual content, realistic design elements, and interactions. These wireframes may incorporate color schemes, fonts, and images, though they still do not represent the full visual design.
+
+- **When to use:** High-fidelity wireframes are typically used later in the design process to refine and finalize the layout and interactions before moving on to the development stage. They provide more clarity for designers, developers, and stakeholders.
+- **Example:** A wireframe with detailed buttons, text, and images, resembling the final interface, though without full visual styling.
+
+## Type of Wireframe Used Here
+
+The wireframes used in this project are **low-fidelity wireframes**. These simple designs help us quickly define the basic layout, structure, and functionality of the product. Since the focus is on organizing content and planning user flows, we use low-fidelity wireframes at the initial stages to visualize and iterate on the core ideas before moving on to more detailed designs.
+
+---
+
+This section now includes a breakdown of **Low-Fidelity** and **High-Fidelity** wireframes, explaining their purpose and use cases. It also adds a brief description of the type of wireframe used in this particular project (low-fidelity).
